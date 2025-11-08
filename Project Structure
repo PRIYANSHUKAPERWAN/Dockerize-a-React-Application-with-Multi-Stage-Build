@@ -1,0 +1,6 @@
+react-app/
+ ├── public/
+ ├── src/
+ ├── package.json
+ ├── package-lock.json
+ └── Dockerfile
